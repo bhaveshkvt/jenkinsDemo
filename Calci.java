@@ -29,7 +29,7 @@ public static void main(String args[])
 Calci c1 = new Calci();
 System.out.println("Addition is = "+(c1.add(20,30)));
 System.out.println("Subtration is = "+(c1.sub(50,30)));
-//System.out.println("Multiplicationis = "+(c1.mul(12,3)));
-//System.out.println("Division is = "+(c1.div(49,4)));
+System.out.println("Multiplicationis = "+(c1.mul(12,3)));
+System.out.println("Division is = "+(c1.div(49,4)));
 }
 }
